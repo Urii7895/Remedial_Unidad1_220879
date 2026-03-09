@@ -18,7 +18,7 @@ Antes de cualquier cambio, se hizo el resáldo de la base de datos para asegurar
   - generar_medicos(cantidad INT): genera médicos aleatorios.
   - generar_citas_medicas(cantidad INT): genera citas médicas relacionando pacientes y médicos.
 
-![Procedimientos SQL](Capturas/Procedures 2.png)  
+![Procedimientos SQL](Capturas/Procedures2.png)  
 *Captura mostrando los procedimientos implementados por el equipo.*
 
 ---
@@ -27,7 +27,7 @@ Antes de cualquier cambio, se hizo el resáldo de la base de datos para asegurar
 ## 3 - Generación de 1000 pacientes
 Se ejecutó el procedimiento generar_pacientes(1000) para poblar la tabla de pacientes con datos.
 
-![1000 pacientes generados](Capturas/Mil pacientes.png)
+![1000 pacientes generados](Capturas/Milpacientes.png)
 
 ---
 
