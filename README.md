@@ -35,7 +35,9 @@ Se ejecutó el procedimiento generar_pacientes(1000) para poblar la tabla de pac
 Se ejecutó el procedimiento generar_medicos(50) para poblar la tabla de médicos con datos. Esto permite tener personal médico disponible para relacionar con las citas médicas.
 
 
-![50 doctores_generados SQL](Capturas/50doctores.png)
+![50_docotores_generadas SQL](Capturas/50doctores.png) 
+
+
 
 --
 
